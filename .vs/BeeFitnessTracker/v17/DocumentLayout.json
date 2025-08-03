@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|f:\\academic_year\\ddoocp\\bee-fitness-tracker\\beefitnessuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|f:\\academic_year\\ddoocp\\bee-fitness-tracker\\beefitnessupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\beefitnessregisteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessregisteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|f:\\academic_year\\ddoocp\\bee-fitness-tracker\\beefitnessfitnessactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessfitnessactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\beefitnessmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|f:\\academic_year\\ddoocp\\bee-fitness-tracker\\beefitnessmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|f:\\academic_year\\ddoocp\\bee-fitness-tracker\\beefitnessuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|f:\\academic_year\\ddoocp\\bee-fitness-tracker\\beefitnessupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessupdateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|f:\\academic_year\\ddoocp\\bee-fitness-tracker\\beefitnessfitnessactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessfitnessactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|f:\\academic_year\\ddoocp\\bee-fitness-tracker\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\beefitnessregisteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40B714D-1BC0-4D7A-8B5D-DEAF19ABB7FC}|BeeFitnessTracker.csproj|solutionrelative:beefitnessregisteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeeFitnessUpdateUser.cs [Design]",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessUpdateUser.cs",
+              "RelativeDocumentMoniker": "BeeFitnessUpdateUser.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessUpdateUser.cs [Design]",
+              "RelativeToolTip": "BeeFitnessUpdateUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:44:52.864Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeeFitnessRegisterUser.cs [Design]",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessRegisterUser.cs",
+              "RelativeDocumentMoniker": "BeeFitnessRegisterUser.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessRegisterUser.cs [Design]",
+              "RelativeToolTip": "BeeFitnessRegisterUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:22:11.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeeFitnessMain.cs [Design]",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessMain.cs",
+              "RelativeDocumentMoniker": "BeeFitnessMain.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessMain.cs [Design]",
+              "RelativeToolTip": "BeeFitnessMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:22:10.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeeFitnessFitnessActivities.cs [Design]",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessFitnessActivities.cs",
+              "RelativeDocumentMoniker": "BeeFitnessFitnessActivities.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessFitnessActivities.cs [Design]",
+              "RelativeToolTip": "BeeFitnessFitnessActivities.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:44:03.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BeeFitnessUserLogin.cs [Design]",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessUserLogin.cs",
+              "RelativeDocumentMoniker": "BeeFitnessUserLogin.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessUserLogin.cs [Design]",
+              "RelativeToolTip": "BeeFitnessUserLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:50:21.305Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeeFitnessMain.cs",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessMain.cs",
+              "RelativeDocumentMoniker": "BeeFitnessMain.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessMain.cs",
+              "RelativeToolTip": "BeeFitnessMain.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:44:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BeeFitnessUserLogin.cs",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessUserLogin.cs",
+              "RelativeDocumentMoniker": "BeeFitnessUserLogin.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessUserLogin.cs",
+              "RelativeToolTip": "BeeFitnessUserLogin.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:44:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BeeFitnessUpdateUser.cs",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessUpdateUser.cs",
+              "RelativeDocumentMoniker": "BeeFitnessUpdateUser.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessUpdateUser.cs",
+              "RelativeToolTip": "BeeFitnessUpdateUser.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:44:54.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BeeFitnessFitnessActivities.cs",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessFitnessActivities.cs",
+              "RelativeDocumentMoniker": "BeeFitnessFitnessActivities.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessFitnessActivities.cs",
+              "RelativeToolTip": "BeeFitnessFitnessActivities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:34:31.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\UserClass.cs",
+              "RelativeDocumentMoniker": "UserClass.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\UserClass.cs",
+              "RelativeToolTip": "UserClass.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAAMsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:23:32.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BeeFitnessRegisterUser.cs",
+              "DocumentMoniker": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessRegisterUser.cs",
+              "RelativeDocumentMoniker": "BeeFitnessRegisterUser.cs",
+              "ToolTip": "F:\\Academic_Year\\DDOOCP\\bee-fitness-tracker\\BeeFitnessRegisterUser.cs",
+              "RelativeToolTip": "BeeFitnessRegisterUser.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T16:22:12.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

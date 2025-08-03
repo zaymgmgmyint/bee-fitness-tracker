@@ -1,0 +1,44 @@
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\bin\Debug\DBCRUDProject.exe.config
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\bin\Debug\DBCRUDProject.exe
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\bin\Debug\DBCRUDProject.pdb
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\BeeFitnessTracker.csproj.AssemblyReference.cache
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\BeeFitnessTracker.frmFitnessActivities.resources
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\BeeFitnessTracker.frmMain.resources
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\BeeFitnessTracker.frmRegisterUser.resources
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\BeeFitnessTracker.frmUpdateUser.resources
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\BeeFitnessTracker.frmUserLogin.resources
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\DBCRUDProject.Properties.Resources.resources
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\BeeFitnessTracker.csproj.GenerateResource.cache
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\BeeFitnessTracker.csproj.CoreCompileInputs.cache
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\DBCRUDProject.exe
+F:\Academic_Year\DDOOCP\Project Sample\test\DBCRUDProject(Final)\DBCRUDProject\obj\Debug\DBCRUDProject.pdb
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\bin\Debug\BeeFitnessTracker.exe.config
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\bin\Debug\BeeFitnessTracker.exe
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\bin\Debug\BeeFitnessTracker.pdb
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.csproj.AssemblyReference.cache
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.BeeFitnessFitnessActivities.resources
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.BeeFitnessMain.resources
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.BeeFitnessRegisterUser.resources
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.BeeFitnessUpdateUser.resources
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.BeeFitnessUserLogin.resources
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.Properties.Resources.resources
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.csproj.GenerateResource.cache
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.csproj.CoreCompileInputs.cache
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.exe
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.pdb
+F:\Academic_Year\DDOOCP\BeeFitnessTracker\obj\Debug\BeeFitnessTracker.exe.config
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\bin\Debug\BeeFitnessTracker.exe.config
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\bin\Debug\BeeFitnessTracker.exe
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\bin\Debug\BeeFitnessTracker.pdb
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.csproj.AssemblyReference.cache
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.BeeFitnessFitnessActivities.resources
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.BeeFitnessMain.resources
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.BeeFitnessRegisterUser.resources
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.BeeFitnessUpdateUser.resources
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.BeeFitnessUserLogin.resources
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.Properties.Resources.resources
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.csproj.GenerateResource.cache
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.csproj.CoreCompileInputs.cache
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.exe
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.pdb
+F:\Academic_Year\DDOOCP\bee-fitness-tracker\obj\Debug\BeeFitnessTracker.exe.config
